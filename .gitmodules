@@ -1,0 +1,6 @@
+[submodule "common/sdl2"]
+	path = common/sdl2
+	url = https://github.com/johnpatek/sdl2
+[submodule "sdl2"]
+	path = sdl2
+	url = https://github.com/johnpatek/sdl2.git
